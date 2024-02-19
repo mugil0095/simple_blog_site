@@ -32,7 +32,7 @@ simple_blog_site
 ## Installation
 1. Clone the repository:
     ```
-    git clone <repository_url>
+    git clone https://github.com/mugil0095/simple_blog_site.git
     ```
 2. Install the required dependencies:
     ```
