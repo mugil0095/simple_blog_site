@@ -11,7 +11,7 @@ This is a basic blog website built using Flask, where users can create, edit, an
 
 ## Project Structure
 simple_blog_site
-&ensp;app
+&ensp;app<br>
 &emsp;init.py
 &emsp;models.py
 &emsp;routes.py
