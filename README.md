@@ -10,7 +10,7 @@ This is a basic blog website built using Flask, where users can create, edit, an
 - [License](#license)
 
 ## Project Structure
-simple_blog_site
+simple_blog_site<br>
 &ensp;app<br>
 &emsp;init.py<br>
 &emsp;models.py<br>
