@@ -14,7 +14,7 @@ The PDF Chatbot is a conversational agent that allows users to upload a PDF file
 
 ## Directory Structure
 
-\`\`\`
+```
 pdf_chatbot/
 ├── requirements.txt
 ├── .pytest_cache/
@@ -45,7 +45,7 @@ pdf_chatbot/
     └── __pycache__/
         ├── __init__.cpython-311.pyc
         └── test_main.cpython-311-pytest-8.3.1.pyc
-\`\`\`
+```
 
 ## Installation
 
@@ -120,8 +120,8 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is Open Source and can be updated in the future. 
 
 ## Contact
 
-For any questions or support, please contact [your email](mailto:youremail@example.com).
+For any questions or support, don't hesitate to contact [your email](Ilamugil.balasubramaniam1@gmail.com).
