@@ -52,7 +52,7 @@ pdf_chatbot/
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/yourusername/pdf_chatbot.git
+   git clone https://github.com/mugil0095/PDF-Chatbot.git
    cd pdf_chatbot
    ```
 
