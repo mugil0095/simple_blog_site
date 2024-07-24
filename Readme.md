@@ -56,27 +56,27 @@ pdf_chatbot/
    ```
 
 2. **Create a virtual environment**:
-   \`\`\`bash
+   ```
    python3 -m venv venv
    source venv/bin/activate
-   \`\`\`
+   ```
 
 3. **Install the dependencies**:
-   \`\`\`bash
+   ```
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 ## Running the Application
 
 1. **Navigate to the \`app\` directory**:
-   \`\`\`bash
+   ```
    cd app
-   \`\`\`
+   ```
 
 2. **Start the FastAPI server**:
-   \`\`\`bash
+   ```
    uvicorn main:app --reload
-   \`\`\`
+   ```
 
 3. **Open your browser** and go to \`http://127.0.0.1:8000/docs\` to view the interactive API documentation.
 
@@ -93,14 +93,14 @@ pdf_chatbot/
 ## Unit Tests
 
 1. **Navigate to the root directory**:
-   \`\`\`bash
-   cd ..
-   \`\`\`
+   ```
+   cd textfolderpath
+   ```
 
 2. **Run the tests**:
-   \`\`\`bash
+   ```
    pytest
-   \`\`\`
+   ```
 
 ## File Descriptions
 
