@@ -78,7 +78,7 @@ pdf_chatbot/
    uvicorn main:app --reload
    ```
 
-3. **Open your browser** and go to \`http://127.0.0.1:8000/docs\` to view the interactive API documentation.
+3. **Open your browser** and go to `http://127.0.0.1:8000/docs` to view the interactive API documentation.
 
 ## API Endpoints
 
