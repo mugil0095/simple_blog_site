@@ -17,6 +17,7 @@ The PDF Chatbot is a conversational agent that allows users to upload a PDF file
 ```
 pdf_chatbot/
 ├── requirements.txt
+├── Readme.md
 ├── .pytest_cache/
 │   ├── .gitignore
 │   ├── CACHEDIR.TAG
