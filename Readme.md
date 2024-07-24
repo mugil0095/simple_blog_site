@@ -50,10 +50,10 @@ pdf_chatbot/
 ## Installation
 
 1. **Clone the repository**:
-   \`\`\`bash
+   ```
    git clone https://github.com/yourusername/pdf_chatbot.git
    cd pdf_chatbot
-   \`\`\`
+   ```
 
 2. **Create a virtual environment**:
    \`\`\`bash
